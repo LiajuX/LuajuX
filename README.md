@@ -34,7 +34,7 @@
 <a href="mailto:julialbritto@gmail.com" target="blank">
   <img align="center" alt="Logo Gmail" width="40" src="./gmail-icon.svg">
 </a>
-<a href="https://www.linkedin.com/in/julia-brito/" target="blank">
+<a href="https://www.linkedin.com/in/j%C3%BAlia-brito-b0420a208/" target="blank">
   <img align="center" alt="Logo LinkedIn"  height="40" width="50" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>                                                                                                                                            
                                                                                                                                             
