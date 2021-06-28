@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./hello-world.svg" alt="Hello World" width="800px">
+  <img src="./header.svg" alt="Header - Web & Mobile Front-End Developer / Mechatronics Engineering Student" width="350px">
 </div>
 
 
@@ -10,6 +10,6 @@
   
 ---
 <div align="center">
-  <img src="./JB.svg" alt="Hello World" width="800px">
+  <img src="./footer.svg" alt="Júlia Brito" width="350px">
 </div>
   
