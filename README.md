@@ -34,6 +34,6 @@
                                                                                                                                             
 ---
 <div align="center">
-  <img src="./footer-1.svg" alt="Júlia Brito" width="1000px">
+  <img src="./footer.svg" alt="Júlia Brito" width="1000px">
 </div>
   
