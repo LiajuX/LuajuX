@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./header.svg" alt="Header Júlia Brito - Web & Mobile Front-End Developer / Mechatronics Engineering Student" width="1000px">
-</div>
+
 
 <br>
 <h2>🛠 Technologies & Tools</h2>
@@ -26,12 +24,13 @@
 
 <h3>Contact me:<h3>
 <a href="mailto:julialbritto@gmail.com" target="blank">
-  <img align="center" alt="Logo Gmail" width="40" src="./gmail-icon.svg">
+  <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:julialbritto@gmail.com">
 </a>
 <a href="https://www.linkedin.com/in/j%C3%BAlia-brito-b0420a208/" target="blank">
-  <img align="center" alt="Logo LinkedIn"  height="40" width="50" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+  <img alt="LinkedIn" " src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white">
 </a>                                                                                                                                            
                                                                                                                                             
----
+#
+
 ![Snake animation](https://github.com/LiajuX/LiajuX/blob/output/github-contribution-grid-snake.svg)
   
