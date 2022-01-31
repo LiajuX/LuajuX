@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./header.svg" alt="Header Júlia Brito - Web & Mobile Front-End Developer / Mechatronics Engineering Student" width="1000px">
+</div>
+
 <br>
 <h2>🛠 Technologies & Tools</h2>
   <div style="display: inline_block">    
