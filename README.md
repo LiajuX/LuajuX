@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./header.svg" alt="Header Júlia Brito - Web & Mobile Front-End Developer / Mechatronics Engineering Student" width="1000px">
-</div>
-
 <br>
 <h2>🛠 Technologies & Tools</h2>
   <div style="display: inline_block">    
@@ -33,7 +29,5 @@
 </a>                                                                                                                                            
                                                                                                                                             
 ---
-<div align="center">
-  <img src="./footer.svg" alt="Júlia Brito" width="1000px">
-</div>
+![Snake animation](https://github.com/LiajuX/LiajuX/blob/output/github-contribution-grid-snake.svg)
   
