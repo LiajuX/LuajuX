@@ -7,14 +7,15 @@
 
   ![HTML](https://img.shields.io/badge/-HTML-E44D26?style=flat&logoColor=fff&logo=html5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logoColor=fff&logo=css3)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logoColor=fff&logo=javascript)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E018?style=flat&logoColor=fff&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
   ![ReactJS](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
   ![ReactNative](https://img.shields.io/badge/-React_Native-05A5D1?style=flat&logoColor=fff&logo=react)&nbsp;
   ![Next](https://img.shields.io/badge/-Next.js-1E1E1E?style=flat&logoColor=fff&logo=next.js)&nbsp;<br/>
   ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logoColor=fff&logo=eslint)&nbsp;
-  ![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=flat&logoColor=fff&logo=prettier)&nbsp;
-  ![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=flat&logoColor=fff&logo=styled-components)&nbsp;<br/>  
+  ![Styled-Components](https://img.shields.io/badge/-Styled_Components-BB5EA8?style=flat&logoColor=fff&logo=styled-components)&nbsp;
+  ![Sass](https://img.shields.io/badge/Sass-hotpink.svg?style=flat&logo=SASS&logoColor=white)&nbsp;
+  <br/>
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logoColor=fff&logo=python)&nbsp;
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
   ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logoColor=fff&logo=java)&nbsp;
