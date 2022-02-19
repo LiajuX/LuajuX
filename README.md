@@ -2,7 +2,18 @@
 <h1 align="center"><samp>Hello world, I'm Júlia Brito</samp></h2>
 
 <br>
-<h3><samp>🛠 Technologies & Tools</samp></h3>
+<img align="left" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="300" />
+
+<table align="rigth">
+<p>📱   My name is Júlia, I'm 19 years old, and São Paulo is my hometown</p>
+<p>💻   My focus is on Front-End development, and my favorite techs are ReactJS and React Native</p>
+<p>🎓   Mechatronics Engineering student</p>
+<p>🚀   I'm currently learning more about Next.js and would like to study GraphQL next</p>
+<p>💬   Feel free to contact me to ask anything. I'll be happy to help</p>
+</table>
+
+<br>
+<h3><samp>🛠 Technologies & Tools:</samp></h3>
   <div style="display: inline_block">    
 
   ![HTML](https://img.shields.io/badge/-HTML-E44D26?style=flat&logoColor=fff&logo=html5)&nbsp;
@@ -15,7 +26,7 @@
   ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logoColor=fff&logo=eslint)&nbsp;
   ![Styled-Components](https://img.shields.io/badge/-Styled_Components-BB5EA8?style=flat&logoColor=fff&logo=styled-components)&nbsp;
   ![Sass](https://img.shields.io/badge/Sass-hotpink.svg?style=flat&logo=SASS&logoColor=white)&nbsp;
-  <br/>
+  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logoColor=fff&logo=python)&nbsp;
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
   ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logoColor=fff&logo=java)&nbsp;
@@ -31,7 +42,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiajuX&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
-<h3>Contact me:<h3>
+<h3><samp>Contact me:</samp></h3>
 <a href="https://www.linkedin.com/in/j%C3%BAlia-brito-b0420a208/" target="_blank">
   <img alt="LinkedIn" " src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white">
 </a>                                                                                                                                            
