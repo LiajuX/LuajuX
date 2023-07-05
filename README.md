@@ -6,9 +6,9 @@
 
 <table align="left">
 <p>📱   My name is Júlia, I'm 20 years old, and São Paulo is my hometown.</p>
-<p>💻   My focus is on Front-End development, and my favorite techs are ReactJS and React Native.</p>
+<p>💻   My focus is on Front-End development and my favorite techs are ReactJS and React Native.</p>
 <p>🎓   Mechatronics Engineering student.</p>
-<p>🚀   I'm currently learning more about Next.js and would like to study GraphQL next.</p>
+<p>🚀   I'm currently learning more about Redux and would like to study GraphQL next.</p>
 <p>💬   Feel free to contact me to ask anything. I'll be happy to help.</p>
 </table>
 
