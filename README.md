@@ -8,7 +8,7 @@
 <p>📱   My name is Júlia, I'm 20 years old, and São Paulo is my hometown.</p>
 <p>💻   My focus is on Front-End development and my favorite techs are ReactJS and React Native.</p>
 <p>🎓   Mechatronics Engineering student.</p>
-<p>🚀   I'm currently learning more about Redux and would like to study GraphQL next.</p>
+<p>🚀   I'm currently learning more about Redux.</p>
 <p>💬   Feel free to contact me to ask anything. I'll be happy to help.</p>
 </table>
 
@@ -20,7 +20,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logoColor=fff&logo=css3)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E018?style=flat&logoColor=fff&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
-  ![ReactJS](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
   ![ReactNative](https://img.shields.io/badge/-React_Native-05A5D1?style=flat&logoColor=fff&logo=react)&nbsp;
   ![Next](https://img.shields.io/badge/-Next.js-1E1E1E?style=flat&logoColor=fff&logo=next.js)&nbsp;<br/>
   ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logoColor=fff&logo=eslint)&nbsp;
