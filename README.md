@@ -5,7 +5,7 @@
 <img align="right" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="300" />
 
 <table align="left">
-<p>📱   My name is Júlia, I'm 20 years old, and São Paulo is my hometown.</p>
+<p>📱   My name is Júlia, I'm 21 years old, and São Paulo is my hometown.</p>
 <p>💻   My focus is on Front-End development and my favorite techs are ReactJS and React Native.</p>
 <p>🎓   Mechatronics Engineering student.</p>
 <p>🚀   I'm currently learning more about Redux.</p>
